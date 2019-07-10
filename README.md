@@ -1,5 +1,34 @@
-# I've joined the #100DaysOfCode Challenge
-Yeeha
+# Michael Gearheart
+
+## Challenge and Commmitment
+I came across the 100 days of code challenge and have decided to dive in.
+
+**Commitment:** *I will code daily for the next 100 days.*
+|   Start Date  | End Date  |
+|  -----------  | --------  |
+| July 10, 2019 | Pending   |
+
+## Goals
+
+- [x] Code Daily
+- [x] Finish the "Learn Python the Hard Way" book.
+- [x] Become familiar with the main languages used in web development.
+-
+# Code Log
+
+## 1. Setting up github account 
+### Day 1: July 10, 2019 - Wednesday
+
+**Today's Project(s):**
+
+- Learn to use git
+- Finish lesson 6 from "LPTHW"
+-
+- **Progress:**
+-
+- **Link to work**
+-
+- **Thoughts**
 
 ## Contents
 
