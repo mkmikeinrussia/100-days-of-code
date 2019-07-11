@@ -1,12 +1,11 @@
-# Michael Gearheart
+# My 100 days of coding 
 
 ## Challenge and Commmitment
-I came across the 100 days of code challenge and have decided to dive in.
+The best way to learn something is to do it.
 
 **Commitment:** *I will code daily for the next 100 days.*
-|   Start Date  | End Date  |
-|  -----------  | --------  |
-| July 10, 2019 | Pending   |
+
+Start Date: July 10, 2019
 
 ## Goals
 
@@ -19,16 +18,12 @@ I came across the 100 days of code challenge and have decided to dive in.
 ## 1. Setting up github account 
 ### Day 1: July 10, 2019 - Wednesday
 
-**Today's Project(s):**
+- **Progress:**  
+- 1. Learned how to push changes to github  
+- 2. Did half of lesson 6.
 
-- Learn to use git
-- Finish lesson 6 from "LPTHW"
--
-- **Progress:**
--
-- **Link to work**
--
-- **Thoughts**
+- **Thoughts**  
+- I am excited. This is the first time I have had a serious plan to stick
 
 ## Contents
 
