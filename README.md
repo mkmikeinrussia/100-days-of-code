@@ -18,15 +18,15 @@ Start Date: July 10, 2019
 ### Day 1: July 10, 2019 - Wednesday
 
 - **Progress:**
-- 1. Learned how to push changes to github
-- 2. Did half of lesson 6.
+ 1. Learned how to push changes to github
+ 2. Did half of lesson 6.
 
 - **Thoughts**
-- I am excited. This is the first time I have had a serious plan to stick
-=======
+ I am excited. This is the first time I have had a serious plan to stick
+
 - **Progress:**
-1. Learned how to push changes to github
-2. Did half of lesson 6.
+ 1. Learned how to push changes to github
+ 2. Did half of lesson 6.
 
 - **Thoughts**
 I am excited. This is the first time I have had a serious plan to learn to code.
