@@ -4,15 +4,8 @@
 The best way to learn something is to do it.
 
 **Commitment:** *I will code daily for the next 100 days.*
-<<<<<<< HEAD
-
 Start Date: July 10, 2019
-=======
- |   Start Date  | End Date  |
- |  -----------  | --------  |
- | July 10, 2019 | Pending   |
->>>>>>> ee963c45f2ff8362b4b8ef3d1daad939df189e27
-
+ 
 ## Goals
 
 - [x] Code Daily
@@ -24,12 +17,11 @@ Start Date: July 10, 2019
 ## 1. Setting up github account 
 ### Day 1: July 10, 2019 - Wednesday
 
-<<<<<<< HEAD
-- **Progress:**  
-- 1. Learned how to push changes to github  
+- **Progress:**
+- 1. Learned how to push changes to github
 - 2. Did half of lesson 6.
 
-- **Thoughts**  
+- **Thoughts**
 - I am excited. This is the first time I have had a serious plan to stick
 =======
 - **Progress:**
@@ -38,8 +30,6 @@ Start Date: July 10, 2019
 
 - **Thoughts**
 I am excited. This is the first time I have had a serious plan to learn to code.
-
->>>>>>> ee963c45f2ff8362b4b8ef3d1daad939df189e27
 
 ## Contents
 
