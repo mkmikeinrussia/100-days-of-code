@@ -14,7 +14,7 @@ Start Date: July 10, 2019
 -
 # Code Log
 
-## 1. Setting up github account 
+## 1. Day one of my journey 
 ### Day 1: July 14, 2019 - Sunday
 
 - **Progress:**
