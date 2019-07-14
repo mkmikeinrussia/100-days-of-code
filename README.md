@@ -15,21 +15,14 @@ Start Date: July 10, 2019
 # Code Log
 
 ## 1. Setting up github account 
-### Day 1: July 10, 2019 - Wednesday
+### Day 1: July 14, 2019 - Sunday
 
 - **Progress:**
- 1. Learned how to push changes to github
- 2. Did half of lesson 6.
+ 1. Finished Lesson 7.
 
 - **Thoughts**
- I am excited. This is the first time I have had a serious plan to stick
-
-- **Progress:**
- 1. Learned how to push changes to github
- 2. Did half of lesson 6.
-
-- **Thoughts**
-I am excited. This is the first time I have had a serious plan to learn to code.
+ I am excited. This is the first time I have had a serious plan to stick to coding.
+ I loved this little bit of code: print ("." * 10)
 
 ## Contents
 
