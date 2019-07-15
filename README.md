@@ -25,10 +25,10 @@ Start Date: July 10, 2019
 
 ### Day 1: July 14, 2019 - Sunday
 
-- **Progress:**
+**Progress:**
  1. Finished Lesson 7.
 
-- **Thoughts**
+**Thoughts**
  I am excited. This is the first time I have had a serious plan to stick to coding.
  I loved this little bit of code: print ("." * 10)
 
