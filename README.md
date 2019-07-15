@@ -14,7 +14,14 @@ Start Date: July 10, 2019
 -
 # Code Log
 
-## 1. Day one of my journey 
+### Day 2: Escpaes July 15, 2019 - Monday
+
+- **Progress**
+- 1. Finished lessons 8 through 10
+-
+- **Thoughts**
+-Just learned about escapes in python. There was a ton of new terms that I will need to memorize.
+
 ### Day 1: July 14, 2019 - Sunday
 
 - **Progress:**
