@@ -14,6 +14,18 @@ Start Date: July 10, 2019
 -
 # Code Log
 
+### Day 3: x = int (input(): July 16, 2019 - Tuesday) 
+
+**Progress**
+  1. Finished lesson 11
+
+  **Thoughts**
+  Tried to get my user input program to get a number input then add or subtract until the number equaled 42.
+  I did not get farther than an if statement but I will work on it further later on.
+
+  As an aside this lesson showed me how to take a user inputed number as a string and convert it to an integer. This 
+  let me do som e math on the user geneerated number.
+
 ### Day 2: Escpaes July 15, 2019 - Monday
 
 **Progress**
