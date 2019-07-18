@@ -14,6 +14,16 @@ Start Date: July 10, 2019
 -
 # Code Log
 
+### Day 4: Wrong, the correct answer is 42
+
+**Progress**
+  1. Went back over lesson 11 to break it and the comment all the lines.
+  2. Used pydocs to read up on python terms.
+
+  **Thoughts**
+  I am enjoying this experience. I am probably going to start a side program that I will build up as I progress in the lessons
+  and become better at coding.
+
 ### Day 3: x = int(input()): July 16, 2019 - Tuesday
 
 **Progress**
@@ -26,7 +36,7 @@ Start Date: July 10, 2019
   As an aside this lesson showed me how to take a user inputed number as a string and convert it to an integer. This 
   let me do some math on the user generated number.
 
-### Day 2: Escpaes July 15, 2019 - Monday
+### Day 2: Escapes July 15, 2019 - Monday
 
 **Progress**
   1. Finished lessons 8 through 10
