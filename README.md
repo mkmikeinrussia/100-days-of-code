@@ -14,6 +14,17 @@ Start Date: July 10, 2019
 -
 # Code Log
 
+### Day 5: Modules
+
+**Progress**
+  1. Finished lesson 12
+  2. Finished lesson 13
+
+**Thoughts**
+Learned about importing modules and how to pass a command line argument. 
+I am still hazy on how this all works, but I am getting a sharper
+picture all the time. Right now I just need to press forward.
+
 ### Day 4: Wrong, the correct answer is 42
 
 **Progress**
