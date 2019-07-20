@@ -13,8 +13,15 @@ Start Date: July 10, 2019
 - [x] Become familiar with the main languages used in web development.
 -
 # Code Log
+### Day 6: Do you like me? July 19, 2019 Friday
 
-### Day 5: Modules
+**Progress**
+  1. Finished Lesson 14
+
+**Thoughts**
+I am interested to see how the argv command line arguments are used when the program has a UI.
+
+### Day 5: Modules July 18, 2019 - Thursday
 
 **Progress**
   1. Finished lesson 12
@@ -25,7 +32,7 @@ Learned about importing modules and how to pass a command line argument.
 I am still hazy on how this all works, but I am getting a sharper
 picture all the time. Right now I just need to press forward.
 
-### Day 4: Wrong, the correct answer is 42
+### Day 4: Wrong, the correct answer is 42 July 17, 2019 - Wednesday
 
 **Progress**
   1. Went back over lesson 11 to break it and the comment all the lines.
@@ -35,7 +42,7 @@ picture all the time. Right now I just need to press forward.
   I am enjoying this experience. I am probably going to start a side program that I will build up as I progress in the lessons
   and become better at coding.
 
-### Day 3: x = int(input()): July 16, 2019 - Tuesday
+### Day 3: x = int(input()) July 16, 2019 - Tuesday
 
 **Progress**
   1. Finished lesson 11
