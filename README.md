@@ -13,15 +13,23 @@ Start Date: July 10, 2019
 - [x] Become familiar with the main languages used in web development.
 -
 # Code Log
-### Day 7: Yes, yes I know. I skipped two days. July 22, 2019 Monday
+### Day 8: I'm baaaaack! August 20th, 2019 - Tuesday
+-
+**Progress**
+  1. Finished lesson 16
+
+**Thoughts** 
+Learned a whole bunch about reading and writing to files. 
+
+### Day 7: Yes, yes I know. I skipped two days. July 22, 2019 - Monday
 
 **Progress**
-1. I finished lesson 15
+  1. I finished lesson 15
 
 **Thoughts**
 Learned about reading files and printing out their contents.
 
-### Day 6: Do you like me? July 19, 2019 Friday
+### Day 6: Do you like me? July 19, 2019 - Friday
 
 **Progress**
   1. Finished Lesson 14
