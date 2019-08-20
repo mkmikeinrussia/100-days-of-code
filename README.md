@@ -14,7 +14,7 @@ Start Date: July 10, 2019
 -
 # Code Log
 ### Day 8: I'm baaaaack! August 20th, 2019 - Tuesday
--
+
 **Progress**
   1. Finished lesson 16
 
